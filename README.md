@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an e-learning platform<br>I'm looking to collaborate on website development with complex features<br>I'm currently looking for help with complex css stylings, javascript implementation<br>I'm currently learning to build dynamic websites<br>Ask me anything about websites<br>A fun fact: The very first website, created by Tim Berners-Lee in 1991, is still accessible today at http://info.cern.ch. It was a simple page explaining what the World Wide Web was and how to use it.
+I'm currently an AI Full Stack Engineer<br>I'm looking to collaborate on website development with complex features<br>I'm currently looking for help with cross platform apps development<br>I'm currently learning to build dynamic websites<br>Ask me anything about websites<br>A fun fact: The very first website, created by Tim Berners-Lee in 1991, is still accessible today at http://info.cern.ch. It was a simple page explaining what the World Wide Web was and how to use it.
 
 
 ## 🌐 Socials:
